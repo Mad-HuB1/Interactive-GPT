@@ -1,1 +1,1 @@
-# Interactive-GPT
+# GenAI - InteractiveGPT
